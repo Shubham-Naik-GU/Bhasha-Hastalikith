@@ -10,19 +10,6 @@
 - **Voice Feedback:** Voice recordings activate once a character is traced. For example, when tracing the letter "D," the voice will say "D for Dog" with a picture of a dog 🐕🔠.
 - **Quiz Section:** After completing the tracing exercises, children can take a quiz to test their knowledge and reinforce what they've learned 📝.
 
-## Screenshots 📸
-1. **Homepage:**
-   ![Homepage](homepage.png)
-   
-2. **Character Card:**
-   ![Character Card](character-card.png)
-   
-3. **Modal View:**
-   ![Modal View](modal-view.png)
-   
-4. **Search Results:**
-   ![Search Results](search-results.png)
-
 ## Tech Stack 🖥️
 - **Programming Language:** Java 🖊️
 - **Development Environment:** Android Studio 🧑‍💻
@@ -38,16 +25,38 @@
 
 ## How to Use 📝
 1. **Launch the App:** Open the Bhasha Hastalikith app on your Android device 📲.
-   <img src="images/menu.jpg" width="200" height="500">
+
+   <img src="images/menu.jpg" width="250" height="500">
 2. **Select a Character:** Choose a letter or number to trace from the main menu 📜.
-     ![Search Results](images/tr.jpg)
+
+   <img src="images/tr.jpg" width="250" height="500">
 3. **Trace the Character:** Use your finger to trace the character on the screen ✏️. You will see visual guides to help with the tracing 👀.
-   ![Search Results](images/tr1.jpg)
+
+   <img src="images/tr1.jpg" width="250" height="500">
 4. **Voice Feedback:** Once you complete tracing, the app will play the corresponding voice (e.g., "D for Dog" for the letter "D") 🎤.
 5. **Complete the Quiz:** After practicing several characters, take the quiz to test your knowledge and reinforce what you’ve learned 🏅.
-     ![Search Results](images/q1.jpg)
+
+   <img src="images/q1.jpg" width="250" height="500">
 6. **Repeat:** Go through the process again with new characters to continue improving your tracing skills 🔄.
-   ![Search Results](images/scr1.jpg)
+
+   <img src="images/scr1.jpg" width="250" height="500">
+
+## Screenshots 📸
+1. **cap alphabet:**
+
+   <img src="images/capB.jpg" width="250" height="500">
+   
+2. **small alphabet:**
+
+   <img src="images/b.jpg" width="250" height="500">
+   
+3. **quiz:**
+
+   <img src="images/q2.jpg" width="250" height="500">
+   
+4. **score card:**
+
+   <img src="images/scr2.jpg" width="250" height="500">
 
 ## App Benefits 🌱
 - **Improved Handwriting Skills:** By practicing the tracing of letters and numbers, children can improve their fine motor skills and hand-eye coordination 🤲.
