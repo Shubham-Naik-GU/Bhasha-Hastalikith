@@ -42,7 +42,7 @@
    <img src="images/scr1.jpg" width="250" height="500">
 
 ## Screenshots 📸
-1. **cap alphabet:**
+1. **capital alphabet:**
 
    <img src="images/capB.jpg" width="250" height="500">
    
