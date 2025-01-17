@@ -38,7 +38,7 @@
 
 ## How to Use 📝
 1. **Launch the App:** Open the Bhasha Hastalikith app on your Android device 📲.
-   <img src="menu.jpg" width="200" height="500">
+   <img src="images/menu.jpg" width="200" height="500">
 2. **Select a Character:** Choose a letter or number to trace from the main menu 📜.
      ![Search Results](images/tr.jpg)
 3. **Trace the Character:** Use your finger to trace the character on the screen ✏️. You will see visual guides to help with the tracing 👀.
