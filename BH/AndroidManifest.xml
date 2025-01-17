@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:versionCode="1" android:versionName="1.0" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" package="com.example.tracingsample" platformBuildVersionCode="28" platformBuildVersionName="9">
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="28"/>
+    <application android:theme="@style/AppTheme" android:label="B H" android:icon="@mipmap/basha" android:debuggable="true" android:allowBackup="true" android:supportsRtl="true" android:roundIcon="@mipmap/basha_round" android:appComponentFactory="android.support.v4.app.CoreComponentFactory">
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity54" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivityA" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity53" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity52" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity51" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity50" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity49" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity48" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity47" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity46" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity45" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity44" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity43" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity42" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity41" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity40" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity39" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity38" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity37" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity36" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity35" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity34" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity33" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity32" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity31" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity30" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity29" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity28" android:exported="false"/>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity27" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity26" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity25" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity24" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity23" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity22" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity21" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity20" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity19" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity18" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity17" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity16" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity15" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity14" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity13" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity12" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity11" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity10" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity9" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity8" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity7" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity6" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity5" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity4" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity3" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity2" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity1" android:exported="false">
+            <meta-data android:name="android.app.lib_name" android:value=""/>
+        </activity>
+        <activity android:name="com.danny_jiang.tracingsample.MainActivity" android:screenOrientation="landscape" android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
